@@ -10,6 +10,6 @@ public class main {
 		System.out.println("a + b  = " + (a+b));
 		System.out.println("a - b = "+(a-b));
 		System.out.println("a / b = " + (a/b));
-
+		System.out.println("a x b = "+(a*b));
 	}
 }
