@@ -7,5 +7,6 @@ public class main {
 		int a = input.nextInt();
 		int b = input.nextInt();
 		System.out.println("a = " + a + "b = 0" + b);
+		System.out.println("a + b  = " + (a+b));
 	}
 }
