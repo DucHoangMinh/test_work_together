@@ -9,6 +9,10 @@ public class main {
 		System.out.println("a = " + a + "b = 0" + b);
 		System.out.println("a + b  = " + (a+b));
 		System.out.println("a - b = "+(a-b));
+<<<<<<< HEAD
 		
+=======
+		System.out.println("a / b = " + (a/b));
+>>>>>>> An
 	}
 }
